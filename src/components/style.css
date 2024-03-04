@@ -1,0 +1,26 @@
+
+
+/* body{
+    background-image: url("../images/Age.jpg");
+    background-repeat: no-repeat;
+    background-position:5em 10em;
+    background-size: 30%;
+} */
+*{
+    background-color: lavender;
+}
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    bottom: 10em;
+    left: 0;
+    right: 0;
+}
+p{
+    color: #e61d1d;
+    padding: 1em;
+}
